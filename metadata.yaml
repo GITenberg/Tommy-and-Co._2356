@@ -1,6 +1,9 @@
 _repo: Tommy-and-Co._2356
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Tommy & Co.
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jerome, Jerome K. (Jerome Klapka)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/173
     wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2356#Tommy-and-Co.
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
 identifiers:
